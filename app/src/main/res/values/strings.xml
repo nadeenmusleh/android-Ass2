@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">French</string>
+    <string name="my_spinner_description">choose</string>
+    <string name="spinner_prompt">Select an item</string>
+
+</resources>
